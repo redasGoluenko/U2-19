@@ -26,19 +26,8 @@ namespace U2_19
             InOutUtils.PrintBestPlayer(register3);
             string fileName = "Champions.csv";
             InOutUtils.PrintChampions(register3.FindChampions(), fileName);
-<<<<<<< HEAD
             InOutUtils.PrintAllToTXT(register1, register2);      
-           
-=======
             InOutUtils.PrintAllToTXT(register1, register2);
-            Console.WriteLine("redas");
-            Console.WriteLine("redas2");
-            
-
-
->>>>>>> 7600aff5a7292172d5d866086cfad5690a0343ce
-
-
 
         }
     }
