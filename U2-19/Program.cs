@@ -28,6 +28,8 @@ namespace U2_19
             InOutUtils.PrintChampions(register3.FindChampions(), fileName);
             InOutUtils.PrintAllToTXT(register1, register2);
             Console.WriteLine("redas");
+            Console.WriteLine("redas2");
+            
 
 
 

@@ -56,6 +56,7 @@ namespace U2_19
 
         public override int GetHashCode()
         {
+            Console.WriteLine("asdags");
             int hashCode = 1288566522;
             hashCode = hashCode * -1521134295 + EqualityComparer<string>.Default.GetHashCode(Name);
             hashCode = hashCode * -1521134295 + EqualityComparer<string>.Default.GetHashCode(LastName);
