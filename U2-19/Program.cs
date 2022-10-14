@@ -27,6 +27,7 @@ namespace U2_19
             string fileName = "Champions.csv";
             InOutUtils.PrintChampions(register3.FindChampions(), fileName);
             InOutUtils.PrintAllToTXT(register1, register2);
+            Console.WriteLine("redas");
 
 
 
